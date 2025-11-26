@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir && chmod 751 my_dir
+/bin/bash -c $'touch file.txt\nchmod 751 12-directory_permissions
